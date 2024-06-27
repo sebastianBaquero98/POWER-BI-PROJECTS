@@ -5,7 +5,7 @@ These are some data cleaning, preparation and visualization projects I have work
   1. Data Collection [View Phase](https://github.com/sebastianBaquero98/Copa-America-Teams-Sofascore-Web-Scraper)
   2. Data Validation done using google sheets functions and pivot tables
   3. Data Cleaning done using Power Query
-  4. Data Visualization [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzVmMjVkYjAtMzEzYy00ZDkyLWEzMjktZDMzNzMxMTA1ZjNmIiwidCI6Ijc2NDEwNWJhLTMxMTUtNGQyYS04ODU0LWMwYmM4NjBiZmJhZCJ9)<br>
+  4. Data Visualization [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzVmMjVkYjAtMzEzYy00ZDkyLWEzMjktZDMzNzMxMTA1ZjNmIiwidCI6Ijc2NDEwNWJhLTMxMTUtNGQyYS04ODU0LWMwYmM4NjBiZmJhZCJ9&pageName=0d6b56743438923e1908)<br>
      **Data project sheds light on insigts and stats about the teams and players playing the 2024 Copa America**
 - ## Spotify streaming data dashboard
   This visualization answers business questions such as:
